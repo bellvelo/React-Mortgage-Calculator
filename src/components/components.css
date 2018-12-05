@@ -1,0 +1,47 @@
+.mortgage-wrapper{
+  width: 60%;
+  margin: auto;
+  background-color: #EEE;
+  padding: 20px;
+  margin-top: 60px;
+  border: 3px solid black;
+}
+.input-form-one{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  margin-top: 15px;
+}
+.input-form-two{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.calculator-figure{
+  text-align: center;
+}
+
+.header-title{
+  text-align: center;
+}
+
+.button{
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+  font-size: 18px;
+}
+
+.button-wrapper{
+  display: flex;
+  align-items: center;
+}
+
+.header-text{
+  text-decoration: underline;
+}
