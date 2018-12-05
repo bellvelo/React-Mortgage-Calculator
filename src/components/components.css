@@ -17,12 +17,20 @@
   justify-content: center;
   margin-top: 15px;
 }
+.repayment{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
 
 .calculator-figure{
   text-align: center;
 }
 
 .header-title{
+  text-align: center;
+}
+.repayment-figure{
   text-align: center;
 }
 
