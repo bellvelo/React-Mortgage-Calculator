@@ -1,3 +1,12 @@
+Heres my Mortgage Calculator, built using React. 
+
+It takes in two salaries, deposit and expenditure. It then calculates the maximum mortgage a lender would offer based on some affordability logic. After which, you can calculate Monthly repayments by entering Term and Interest Rate.
+
+![image](https://user-images.githubusercontent.com/39886049/49605467-76df1500-f988-11e8-843e-11eb11b1f1f3.png)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
